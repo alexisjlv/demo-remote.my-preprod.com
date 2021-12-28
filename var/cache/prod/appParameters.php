@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'sc4joal1816_rmtdm',
+    'database_user' => 'sc4joal1816_rmtdm',
+    'database_password' => 'demosixtrone',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'gJrhbzKbdC1fm4Qf1dQDsjcfd9rhoiq07QtCDNPaXyrov2eK1uyNCJM68BVqMbMK',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-12-28',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '0hThZw19YW53EmBEBYtTEEXhuikVc3bM3xnMK4jHv3AIiA95gG7uWSjT9rZTwQxC',
+    'cookie_iv' => 'cY0dsPip9EKdFyYbehR5cqjnuDVuZBVV',
+    'new_cookie_key' => 'def00000de10b69680bd41cb26c172ed953639df1f63973647d7fe5993028f456066937f03b0fea4f62587e35d935f235e34ba72044ac7433aa7f609a5b438f939b39edb',
+  ),
+);

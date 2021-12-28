@@ -1,0 +1,6 @@
+# Created by https://www.toptal.com/developers/gitignore/api/prestashop
+# Edit at https://www.toptal.com/developers/gitignore?templates=prestashop
+
+### Prestashop ###
+# Cache, temp and personal files
+/app/config/parameters.php
